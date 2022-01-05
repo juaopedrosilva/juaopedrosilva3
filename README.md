@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: HTML, CSS, JavaScript, Sass, ReactJS, Next.js, React Native e Styled Components.
+  🦄 Habilidades: HTML, CSS, JavaScript, Sass, ReactJS, NextJS, React Native e Styled Components.
 </p>
 
 <p align="left">
